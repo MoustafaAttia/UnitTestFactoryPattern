@@ -4,3 +4,6 @@ C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\F
 C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\Factory\bin\Debug\Factory.pdb
 C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\Factory\obj\Debug\Factory.exe
 C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\Factory\obj\Debug\Factory.pdb
+C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\UnitTestFactory\Factory\bin\Debug\Factory.exe.config
+C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\UnitTestFactory\Factory\obj\Debug\Factory.exe
+C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\UnitTestFactory\Factory\obj\Debug\Factory.pdb
