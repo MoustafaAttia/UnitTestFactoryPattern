@@ -1,0 +1,7 @@
+C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\UnitTestProject\bin\Debug\Factory.exe
+C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\UnitTestProject\bin\Debug\Factory.pdb
+C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
