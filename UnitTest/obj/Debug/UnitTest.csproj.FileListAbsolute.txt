@@ -1,8 +1,0 @@
-C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\UnitTest\bin\Debug\UnitTest.exe.config
-C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\UnitTest\bin\Debug\UnitTest.exe
-C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\UnitTest\bin\Debug\UnitTest.pdb
-C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\UnitTest\bin\Debug\Factory.exe
-C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\UnitTest\bin\Debug\Factory.pdb
-C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
-C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\UnitTest\obj\Debug\UnitTest.exe
-C:\Users\Moustafa.Dorgham\Documents\Visual Studio 2013\Projects\DesignPatterns\Factory\UnitTest\obj\Debug\UnitTest.pdb

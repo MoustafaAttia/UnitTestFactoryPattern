@@ -7,7 +7,7 @@ namespace UnitTestProject
     [TestClass]
     public class UnitTest1
     {
-        // test published to Github
+        
         [TestClass]
         public class UnitTest
         {
